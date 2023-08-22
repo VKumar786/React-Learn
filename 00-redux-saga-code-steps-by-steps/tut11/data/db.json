@@ -1,0 +1,40 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Redmi 12",
+            "color": "Black",
+            "price": 150,
+            "category": "Mobile",
+            "brand": "Redmi",
+            "photo": "https://i.pinimg.com/750x/15/b2/26/15b226cc7bbff94f93d6ce6be51037f8.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Redmi 12",
+            "color": "Black",
+            "price": 150,
+            "category": "Mobile",
+            "brand": "Redmi",
+            "photo": "https://i.pinimg.com/750x/15/b2/26/15b226cc7bbff94f93d6ce6be51037f8.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Redmi 12",
+            "color": "Black",
+            "price": 150,
+            "category": "Mobile",
+            "brand": "Redmi",
+            "photo": "https://i.pinimg.com/750x/15/b2/26/15b226cc7bbff94f93d6ce6be51037f8.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Redmi 12",
+            "color": "Black",
+            "price": 150,
+            "category": "Mobile",
+            "brand": "Redmi",
+            "photo": "https://i.pinimg.com/750x/15/b2/26/15b226cc7bbff94f93d6ce6be51037f8.jpg"
+        }
+    ]
+}
